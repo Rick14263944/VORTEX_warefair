@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Logs
+*.log
+logs/
+*.out
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
+*.secret
+*.token
+
+# Keys and credentials
+*.pem
+*.crt
+*.key
+*.cert
+*.enc
+*.pfx
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.code-workspace
+
+# Binaries & builds
+build/
+dist/
+*.exe
+*.dll
+*.o
+*.out
+*.class
+
+# Network captures or memory dumps
+*.pcap
+*.dmp
+*.core
+
+# PDFs, Docs
+*.pdf
+docs/private/
+
+# Frontend/React
+node_modules/
+npm-debug.log
+.env.local
+.env.production
+.env.development
+coverage/
